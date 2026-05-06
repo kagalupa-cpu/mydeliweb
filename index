@@ -1,17 +1,17 @@
-mydeli/
 index.html
-│ images/
+images/
 │   logomydeli.png
-│   │ cookiesoriginal.jpg
-│   │ cookiesalmond.jpg
-│   │ cookiescranberry.jpg
-│   │ cookieschocoalmond.jpg
-│   │ barprotein.jpg
-│   │ bardarkchoco.jpg
-│   │ barcranberry.jpg
-│   │ barchocoalmond.jpg
-│   │ crakerskastengel.jpg
-│   │ crakerschocoalmond.jpg
-│   │ crakerschocolate.jpg
-│   │ crakersori.jpg
-│   │ fudgybrownie.jpg
+│   cookiesoriginal.jpg
+│   cookiesalmond.jpg
+│   cookiescranberry.jpg
+│   cookieschocoalmond.jpg
+│   barprotein.jpg
+│   bardarkchoco.jpg
+│   barcranberry.jpg
+│   barchocoalmond.jpg
+│   crakerskastengel.jpg
+│   crakerschocoalmond.jpg
+│   crakerschocolate.jpg
+│   crakersori.jpg
+│   fudgybrownie.jpg
+vercel.json
